@@ -173,7 +173,7 @@ JOIN artista a ON m.id_artista = a.id_artista
 WHERE a.nome = 'Seu Artista Favorito';
 ```
 
-##ESSE É MEU TRABALHO
+# ESSE É MEU TRABALHO
 
 ---
 
