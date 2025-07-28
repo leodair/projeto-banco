@@ -171,3 +171,12 @@ SELECT m.nome_musica
 FROM musica m
 JOIN artista a ON m.id_artista = a.id_artista
 WHERE a.nome = 'Seu Artista Favorito';
+```
+
+##ESSE É MEU TRABALHO
+
+---
+
+![download](https://github.com/user-attachments/assets/8e94a539-dcac-4e62-b4ad-4b1e963e81c2)
+
+
